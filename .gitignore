@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+MNIST_3_figs/
+MNIST_3_models/
+MNIST_cGAN_figs/
+MNIST_cGAN_models/
+out/
+MNIST_data/
+
