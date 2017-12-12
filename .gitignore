@@ -1,8 +1,4 @@
 .ipynb_checkpoints/
-MNIST/MNIST_3_figs/
-MNIST/MNIST_3_models/
-MNIST/MNIST_cGAN_figs/
-MNIST/MNIST_cGAN_models/
-MNIST/out/
-MNIST/MNIST_data/
-
+MNIST/*/
+Face/*/
+Face/Fail_Face_WassersteinDCGAN.ipynb
