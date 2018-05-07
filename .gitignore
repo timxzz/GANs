@@ -1,6 +1,6 @@
 .ipynb_checkpoints/
 MNIST/*/
-Face/*/
+Face/*/**
 !Face/Evaluations/*.ipynb
 !Face/Face_data/Image_preprocessing.ipynb
 !Face/Face_data/Find_bright_image_in_KDEF.ipynb
