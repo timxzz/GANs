@@ -1,7 +1,6 @@
 .ipynb_checkpoints/
 MNIST/*/
 Face/*/
+!Face/Evaluations/*.ipynb
 Face/Fail_Face_WassersteinDCGAN.ipynb
 
-!*/
-!Face/Evaluations/*.ipynb
