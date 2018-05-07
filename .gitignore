@@ -3,4 +3,5 @@ MNIST/*/
 Face/*/
 Face/Fail_Face_WassersteinDCGAN.ipynb
 
+!*/
 !Face/Evaluations/*.ipynb
