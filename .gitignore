@@ -1,7 +1,8 @@
 .ipynb_checkpoints/
 MNIST/*/
 Face/*/**
-!Face/Evaluations/*.ipynb
+!Face/Evaluations/Evaluation_Expression_Recogniser.ipynb
+!Face/Evaluations/StarGAN_Evalutaions.ipynb
 !Face/Face_data/Image_preprocessing.ipynb
 !Face/Face_data/Find_bright_image_in_KDEF.ipynb
 Face/Fail_Face_WassersteinDCGAN.ipynb
